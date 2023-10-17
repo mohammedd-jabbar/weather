@@ -1,4 +1,4 @@
-# Weather-website
+# Weather website
 
 Welcome to my weather website! This project provides up-to-date weather information, including temperature and weather icon, for any location of your choice. The weather data is sourced from a reliable API, ensuring accurate and timely information.
 
